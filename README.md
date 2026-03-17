@@ -11,5 +11,5 @@ I am a professional driven by the intersection of **finance, real estate, and te
 * **Real Estate Industry:** I have actively contributed to the acquisition and strategic implementation of building projects dedicated to **short-term rental apartments**.
 * **Quantitative Analysis:** Focused on business intelligence and financial modeling to drive investment decisions.
 
-## 🚀 Let's Connect!
-I'm always open to discussing new ideas or collaborating on fun projects. Feel free to reach out on LinkedIn!
+## Let's Connect!
+**I'm always open to discussing new ideas or collaborating on fun projects. Feel free to reach out on LinkedIn!**
