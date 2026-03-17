@@ -2,7 +2,7 @@
 
 ### Financial & Business Quantitative Analyst | Entrepreneur
 
-I am a professional driven by the intersection of **finance, real estate, and technology**. My background combines quantitative analysis with hands-on entrepreneurial experience in the real estate industry.
+I am a professional driven by the intersection of **finance, real estate, and technology**. My background combines quantitative analysis with hands-on entrepreneurial experience in the real estate and financial industry.
 
 ---
 
