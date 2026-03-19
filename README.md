@@ -1,5 +1,3 @@
-# Hi there, I'm Lucas 👋
-
 ### Financial & Business Quantitative Analyst | Entrepreneur
 `C++` `PYTHON` `FLASK` `DJANGO` `POSTGRESQL` `BOOTSTRAP`  
 
