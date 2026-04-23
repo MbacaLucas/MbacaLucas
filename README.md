@@ -1,4 +1,4 @@
-### Entrepreneur | Financial & Business Quantitative Analyst 
+### Entrepreneur | QuantDev
 `C++` `PYTHON` `FLASK` `DJANGO` `POSTGRESQL` `BOOTSTRAP`  
 
 I am a professional driven by the intersection of **Healthcare, real estate, and technology**. My background combines quantitative analysis with hands-on entrepreneurial experiences.
