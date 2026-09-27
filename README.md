@@ -1,7 +1,7 @@
 ### Entrepreneur | Research
 `C++` `PYTHON` `TYPESCRIPT` 
 
-I am a professional driven by the intersection of **Healthcare, real estate, and technology**. My background combines, entrepreneurial experiences, quantitative research and programming.
+I am a professional driven by the intersection of **Healthcare, Finance, Real Estate and Technology**. My background combines, entrepreneurial experiences, quantitative research and programming.
 
 ---
 
